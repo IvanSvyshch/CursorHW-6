@@ -58,5 +58,4 @@ public class SinglyLinkedStack<T> implements SinglyLinkedStackInterface<T> {
         }
         return searchNode;
     }
-
 }

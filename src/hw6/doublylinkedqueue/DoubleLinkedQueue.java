@@ -59,5 +59,4 @@ public class DoubleLinkedQueue<T> implements DoubleLinkedQueueInterface<T> {
             size++;
         }
     }
-
 }
